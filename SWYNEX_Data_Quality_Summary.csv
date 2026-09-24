@@ -1,0 +1,8 @@
+Issue,Count
+Missing Description,1455
+Missing CustomerID,135034
+Duplicate Records,0
+Negative Quantity (cancellations/returns),10587
+Zero Quantity,0
+Negative UnitPrice,0
+Zero UnitPrice,2510
